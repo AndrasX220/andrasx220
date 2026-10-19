@@ -1,4 +1,4 @@
-![logo](https://github.com/AndrasX220/andrasx220/blob/main/unknown.png)
+![logo]()
 <h1 align="center">Hi 👋, I'm András</h1>
 <h3 align="center">A software engineer from Hungary</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
