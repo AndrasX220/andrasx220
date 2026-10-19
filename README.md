@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrasx220&label=Profile%20views&color=0e75b6&style=flat" alt="andrasx220" /> </p>
 
-- 🔭 I’m currently working on a webside for **Kapu-mh**
+- 🔭 I’m currently working on a webside for **ZynkUp**
 
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning **c++**
 
-- ⚡ Fun fact **There is BIG money in coding**
+- ⚡ Fun fact **SAD AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
